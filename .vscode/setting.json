@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Monokai Dimmed",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "git.confirmSync": false,
+  "git.autofetch": true
+}
