@@ -1,8 +1,13 @@
 {
-  "workbench.colorTheme": "Monokai Dimmed",
-  "editor.tabSize": 2,
-  "editor.renderWhitespace": "boundary",
-  "editor.multiCursorModifier": "ctrlCmd",
-  "git.confirmSync": false,
-  "git.autofetch": true
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "PixelMplus10",
+    "git.autofetch": true,
+    "search.location": "panel",
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai Dimmed"
 }
