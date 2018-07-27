@@ -1,13 +1,11 @@
 {
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "FlatUI Dark",
     "editor.tabSize": 2,
     "editor.renderWhitespace": "boundary",
-    "editor.fontSize": 16,
-    "editor.fontFamily": "PixelMplus10",
+    "editor.fontSize": 14,
     "git.autofetch": true,
     "search.location": "panel",
     "window.zoomLevel": 0,
-    "workbench.startupEditor": "newUntitledFile",
-    "materialTheme.fixIconsRunning": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Monokai Dimmed"
+    "workbench.iconTheme": "vscode-icons"
 }

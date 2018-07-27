@@ -1,0 +1,51 @@
+{
+	"name": "bimbo-theme",
+	"version": "0.6.0",
+	"publisher": "pawelgrzybek",
+	"homepage": "https://pawelgrzybek.com/",
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"license": "MIT",
+	"displayName": "Bimbo Theme (discontinued - replaced by Gatito Theme)",
+	"description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"bimbo",
+		"dark",
+		"theme",
+		"color-theme",
+		"oceanic"
+	],
+	"galleryBanner": {
+		"color": "#252B2E",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Bimbo Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/bimbo-theme-color-theme.json"
+			}
+		]
+	},
+	"maintainers": [
+		"Pawel Grzybek <grzybecki@gmail.com> (https://pawelgrzybek.com/)"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pawelgrzybek/bimbo-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/pawelgrzybek/bimbo-theme/issues"
+	},
+	"icon": "images/icon.png",
+	"__metadata": {
+		"id": "9d674f86-f8d2-4fe1-8fa6-a17b40caf4ac",
+		"publisherId": "8e8404e1-0cbf-45f2-afcb-d3e43c020b62",
+		"publisherDisplayName": "Paweł Grzybek"
+	}
+}
